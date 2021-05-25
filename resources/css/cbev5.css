@@ -1,0 +1,16 @@
+.bnumbers{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.bright{
+    border-right: solid 1px blue;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.marginbot{
+   padding: 10px;
+}
